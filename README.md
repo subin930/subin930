@@ -275,16 +275,4 @@
 
 </div>
 
-<!-- GitHub Streak / 잔디밭 -->
-<div align="left" style="margin-top:16px;">
-  <a href="https://github.com/subin930">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=subin930&theme=dark&hide_border=false" 
-      alt="GitHub Streak" 
-      height="180"
-    />
-  </a>
-</div>
-
-
 </div>
