@@ -17,10 +17,11 @@
   <tr>
     <td>Base Language</td>
   <td>
-     <!-- c -->
+     <!-- c 
      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="margin-right:8px;"/>
-     <!-- c++ -->
+     c++ 
      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="margin-right:8px;"/>
+    -->
      <!-- java -->
      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" style="margin-right:8px;"/>
      <!-- python -->
@@ -30,8 +31,6 @@
   <tr>
     <td>Backend</td>
     <td>
-       <!-- java -->
-       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" style="margin-right:8px;"/>
        <!-- spring -->
        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" style="margin-right:8px;"/>
        <!-- spring boot -->
