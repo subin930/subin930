@@ -106,6 +106,14 @@
     <strong>2022.02 - present</strong><br/>
     <em>Sungkyunkwan University — Department of Computer Science and Engineering (CSE)</em><br/>
   </li>
+  <li>
+    <strong>2025.04 - 2025.09</strong><br/>
+    <em>Shinhan Financial SW Academy</em><br/>
+  </li>
+  <li>
+    <strong>2025.11 - present</strong><br/>
+    <em>CMC(Central Makeus Challenge)</em><br/>
+  </li>
   <br/>
 </ul>
 
