@@ -120,11 +120,11 @@
 <br><br>
 <div align="left">
 <h3>📌About Me </h3>
-   <br />
-<details>
-   <summary><strong>Tech Blog</strong></summary>
+   <!-- <br /> -->
+<!-- <details> -->
+   <!-- <summary><strong>Tech Blog</strong></summary> -->
   <!-- Featured Posts -->
-  <ul>
+  <!-- <ul>
     <li>
       <a href="https://huffpuffkin.tistory.com/52" target="_blank">💡 UTC 저장 + KST 응답 구조로 타임존 문제 해결하기</a>
     </li>
@@ -134,15 +134,15 @@
     <li>
       <a href="https://huffpuffkin.tistory.com/57" target="_blank">☁️ Redis 이용한 좌석 선점/결제 로직 구현</a>
     </li>
-  </ul>
-   <br />
+  </ul> -->
+   <!-- <br /> -->
    <!-- Badge -->
-  <p>
+  <!-- <p>
     <a href="https://huffpuffkin.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/BLOG-FF5E00?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog"/>
     </a>
-  </p>
-</details>
+  </p> -->
+<!-- </details> -->
 
 <details>
   <summary><strong>Projects</strong></summary>
